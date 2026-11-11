@@ -1,0 +1,9 @@
+# Answer keys - keep local only
+*SOLUTIONS*
+*.zip
+
+# OS / editor / Python
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.venv/
